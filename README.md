@@ -13,9 +13,7 @@
 </div>
 
 <!-- Animated Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Django%20Developer%20%7C%20Full%20Stack%20Engineer&fontSize=45&fontColor=ffffff&animation=twinkling&desc=Crafting%20Robust%20Web%20Solutions%20with%20Python%20%26%20Modern%20Technologies&descSize=18&descAlignY=60" />
-</div>
+
 
 <!-- Professional Badges -->
 <div align="center" style="margin-top: 15px;">
@@ -66,12 +64,12 @@
         <strong>Frontend Engineer</strong> – Creating dynamic, responsive user interfaces with React, modern JavaScript, and cutting-edge CSS frameworks.
       </td>
     </tr>
-    <tr>
+     <tr>
       <td align="center">
-        <!-- Clap image removed as requested -->
+        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50" height="50" alt="Innovation"/>
       </td>
       <td>
-        <strong>Innovation Enthusiast</strong> – Passionate about exploring emerging technologies and implementing best practices in web development.
+        <strong>Innovation Enthusiast</strong> - Passionate about exploring emerging technologies and implementing best practices in web development.
       </td>
     </tr>
   </table>
